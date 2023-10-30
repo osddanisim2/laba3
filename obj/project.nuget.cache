@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "4qt544qF0dOpoA32YeAMlvNnnMMkYJEpEfMIWWgYAe90n+SVu2G2X5W1RR1GmE/FzJuCqqRYkNnBcBOMyanCCw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Дмитро\\source\\repos\\practic1\\practic1\\practic1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Дмитро\\.nuget\\packages\\fastreport.compat\\2023.3.0\\fastreport.compat.2023.3.0.nupkg.sha512",
+    "C:\\Users\\Дмитро\\.nuget\\packages\\fastreport.datavisualization\\2023.3.0\\fastreport.datavisualization.2023.3.0.nupkg.sha512",
+    "C:\\Users\\Дмитро\\.nuget\\packages\\microsoft.codeanalysis.analyzers\\2.9.4\\microsoft.codeanalysis.analyzers.2.9.4.nupkg.sha512",
+    "C:\\Users\\Дмитро\\.nuget\\packages\\microsoft.codeanalysis.common\\3.3.1\\microsoft.codeanalysis.common.3.3.1.nupkg.sha512",
+    "C:\\Users\\Дмитро\\.nuget\\packages\\microsoft.codeanalysis.csharp\\3.3.1\\microsoft.codeanalysis.csharp.3.3.1.nupkg.sha512",
+    "C:\\Users\\Дмитро\\.nuget\\packages\\microsoft.codeanalysis.visualbasic\\3.3.1\\microsoft.codeanalysis.visualbasic.3.3.1.nupkg.sha512",
+    "C:\\Users\\Дмитро\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.2\\microsoft.netcore.platforms.2.1.2.nupkg.sha512",
+    "C:\\Users\\Дмитро\\.nuget\\packages\\system.collections.immutable\\1.5.0\\system.collections.immutable.1.5.0.nupkg.sha512",
+    "C:\\Users\\Дмитро\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\Дмитро\\.nuget\\packages\\system.reflection.metadata\\1.6.0\\system.reflection.metadata.1.6.0.nupkg.sha512",
+    "C:\\Users\\Дмитро\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512",
+    "C:\\Users\\Дмитро\\.nuget\\packages\\system.text.encoding.codepages\\4.5.1\\system.text.encoding.codepages.4.5.1.nupkg.sha512",
+    "C:\\Users\\Дмитро\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.3\\system.threading.tasks.extensions.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}
