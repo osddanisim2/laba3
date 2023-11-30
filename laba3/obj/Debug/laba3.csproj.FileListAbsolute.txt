@@ -1,0 +1,17 @@
+C:\Users\Дмитро\source\repos\laba3\laba3\obj\Debug\laba3.csproj.AssemblyReference.cache
+C:\Users\Дмитро\source\repos\laba3\laba3\obj\Debug\MainWindow.g.cs
+C:\Users\Дмитро\source\repos\laba3\laba3\obj\Debug\Window1.g.cs
+C:\Users\Дмитро\source\repos\laba3\laba3\obj\Debug\App.g.cs
+C:\Users\Дмитро\source\repos\laba3\laba3\obj\Debug\laba3_MarkupCompile.cache
+C:\Users\Дмитро\source\repos\laba3\laba3\obj\Debug\laba3_MarkupCompile.lref
+C:\Users\Дмитро\source\repos\laba3\laba3\bin\Debug\laba3.exe.config
+C:\Users\Дмитро\source\repos\laba3\laba3\bin\Debug\laba3.exe
+C:\Users\Дмитро\source\repos\laba3\laba3\bin\Debug\laba3.pdb
+C:\Users\Дмитро\source\repos\laba3\laba3\obj\Debug\MainWindow.baml
+C:\Users\Дмитро\source\repos\laba3\laba3\obj\Debug\Window1.baml
+C:\Users\Дмитро\source\repos\laba3\laba3\obj\Debug\laba3.g.resources
+C:\Users\Дмитро\source\repos\laba3\laba3\obj\Debug\laba3.Properties.Resources.resources
+C:\Users\Дмитро\source\repos\laba3\laba3\obj\Debug\laba3.csproj.GenerateResource.cache
+C:\Users\Дмитро\source\repos\laba3\laba3\obj\Debug\laba3.csproj.CoreCompileInputs.cache
+C:\Users\Дмитро\source\repos\laba3\laba3\obj\Debug\laba3.exe
+C:\Users\Дмитро\source\repos\laba3\laba3\obj\Debug\laba3.pdb
